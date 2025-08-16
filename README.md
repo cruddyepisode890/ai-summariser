@@ -67,6 +67,7 @@ npm run build
 npm start
 ```
 
+https://t0yxz6yjza81-deploy.space.z.ai -   live project link
 
 
 
